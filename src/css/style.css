@@ -1,0 +1,19 @@
+body {
+  align-items: center;
+  padding-top: 20px;
+  background-color: black;
+  color: wheat;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+input {
+  text-align: center;
+  border-radius: 10px;
+  height: 22px;
+}
+
+li {
+  list-style: none;
+}
